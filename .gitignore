@@ -1,0 +1,15 @@
+node_modules/
+dist/
+src-tauri/target/
+release/
+legacy/
+tmp/
+1.00/
+
+当前存档答案.txt
+你提供的存档答案.txt
+
+*.log
+*.pdb
+.DS_Store
+Thumbs.db
